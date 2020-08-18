@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="Nexus 5X" />
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="55f4b5c6-b9f1-47f9-9127-80eff0fa80b0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="college_attendence" />
+  </component>
+  <component name="ProjectId" id="1fl9dODKWVKCVTRRjka6pdSVDZc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55f4b5c6-b9f1-47f9-9127-80eff0fa80b0" name="Default Changelist" comment="" />
+      <created>1596781898240</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596781898240</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="496" y="106" key="AndroidProcessChooserDialog" timestamp="1596862776812">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="496" y="106" key="AndroidProcessChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1596862776812" />
+    <state width="618" height="121" key="GridCell.Tab.0.bottom" timestamp="1596862703544">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="618" height="121" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596862703544" />
+    <state width="618" height="121" key="GridCell.Tab.0.center" timestamp="1596862703544">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="618" height="121" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1596862703544" />
+    <state width="618" height="121" key="GridCell.Tab.0.left" timestamp="1596862703543">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="618" height="121" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1596862703543" />
+    <state width="618" height="121" key="GridCell.Tab.0.right" timestamp="1596862703544">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="618" height="121" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1596862703544" />
+    <state x="561" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1596951656259">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="561" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1596951656259" />
+    <state x="298" y="151" key="run.anything.popup" timestamp="1596862716110">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="298" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1596862716110" />
+  </component>
+</project>

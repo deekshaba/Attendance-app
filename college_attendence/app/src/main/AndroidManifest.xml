@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.college_attendence">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name=".Startapplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/attendance"
+
+        android:label="ATTENDANCE"
+        android:roundIcon="@mipmap/attendance_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name=".view_student8"></activity>
+        <activity android:name=".view_student7" />
+        <activity android:name=".view_student6" />
+        <activity android:name=".view_student5" />
+        <activity android:name=".view_student4" />
+        <activity android:name=".view_student3" />
+        <activity android:name=".edit_info" />
+        <activity android:name=".attendance_edit" />
+        <activity android:name=".select_date" />
+        <activity android:name=".attendance_info" />
+        <activity android:name=".Attendance" />
+        <activity android:name=".faculty_add_student" />
+        <activity android:name=".facultyinfo" />
+        <activity android:name=".studentinfo" />
+        <activity android:name=".faculty_login" />
+        <activity android:name=".faculty_register" />
+        <activity android:name=".faculty_menu" />
+        <activity android:name=".view_student2" />
+        <activity android:name=".view_student1" />
+        <activity android:name=".student_view_info" />
+        <activity android:name=".view_student" />
+        <activity android:name=".student_register" />
+        <activity android:name=".view_faculty" />
+        <activity android:name=".Menu" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Login" />
+    </application>
+
+</manifest>

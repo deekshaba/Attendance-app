@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">college_attendence</string>
+    <string-array name="department">
+        <item>ISE</item>
+
+
+    </string-array>
+    <string-array name="year">
+        <item>2A</item>
+        <item>2B</item>
+        <item>2C</item>
+        <item>3A</item>
+        <item>3B </item>
+        <item>3C</item>
+        <item>4A</item>
+        <item>4B</item>
+        <item>4C</item>
+
+
+    </string-array>
+
+
+    <string-array name="user">
+        <item>Admin</item>
+        <item>Faculty</item>
+    </string-array>
+</resources>
